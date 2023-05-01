@@ -1,0 +1,7 @@
+.block{
+    width:10px;
+    aspect-ratio:1;
+    background-color: #efefef;
+    display:block;
+    position:absolute;
+  }
